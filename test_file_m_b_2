@@ -3,3 +3,10 @@ this file is to load branch
 
 Edited after commiting the test file 3
 
+Edited after creating new branch
+
+->----------------------->-   master/main code
+   -                 -  
+    -               -
+     -             -
+      --->o--------   <===========  new branch "readme_edit" changes
