@@ -20,3 +20,7 @@ init core4
 
 init pll5
 init core5
+
+
+init pll6
+init core6
