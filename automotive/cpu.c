@@ -21,3 +21,6 @@ start init pll5
 start init core5
 
 
+add pll6 registers
+start init pll6
+start init core6
