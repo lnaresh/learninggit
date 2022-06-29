@@ -14,6 +14,9 @@ init core3
 init clk3
 init pll3
 run clk3
+init pll4
+init clk4
+init core4
 
 init pll5
 init core5
