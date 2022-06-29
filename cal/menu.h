@@ -1,1 +1,1 @@
-void menu(void);
+void automotive_menu(void);

@@ -1,10 +1,13 @@
 #include<stdio.h>
 
 
-#include"fh.h"
+#include"calculator_headers.h"
+#include<stdlib.h>
+int init_main_master({
 
-main(){
+master_auto_motivemenu();
+chasis_unit();
+ecu_unit();
 
-menu();
 
 }
