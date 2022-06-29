@@ -16,3 +16,4 @@ init pll3
 run clk3
 
 init pll5
+init core5
