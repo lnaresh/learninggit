@@ -15,5 +15,9 @@ init clk3
 init pll3
 run clk3
 
-init pll5
-init core5
+
+add pll5 registers
+start init pll5
+start init core5
+
+
