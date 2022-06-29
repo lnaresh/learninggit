@@ -3,8 +3,9 @@
 
 #include"fh.h"
 
-main(){
-
-menu();
+start_main(){
+mul();
+add();
+sub();
 
 }
