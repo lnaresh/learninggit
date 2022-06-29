@@ -1,8 +1,8 @@
 #include"fh.h"
-void menu(void){
-printf("enter the menu");
-pritnf("this is for calculator")
-printf("this is for ADD");
+int add_menu(int a, int b){
+print("enter the add");
+pritn("ADD_Menu")
+print("this is for ADD");
 
 
 }
